@@ -1,5 +1,5 @@
 {
-    "name": "harimayco/laravel-menu",
+    "name": "vdhruv/laravel-menu",
     "description": "drag and drop menu generator like wordpress for laravel 5",
     "keywords": ["Laravel", "Menu", "Wordpress", "Builder"],
     "authors": [
@@ -12,11 +12,16 @@
             "name": "Cristian Garcia",
             "email": "informacion@cristiangarcia.co",
             "role" : "Original Developer"
+        },
+        {
+            "name": "Dhruv Vadodariya",
+            "email": "dhruvvadodariya03@gmail.com",
+            "role": "Developer"
         }
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "5.*"
+        "illuminate/support": "6.*"
     },
     "autoload": {
         "psr-4": {
